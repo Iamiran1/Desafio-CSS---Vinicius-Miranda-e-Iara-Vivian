@@ -97,3 +97,85 @@ body {
   display: flex;
   size: 0.6rem;
 }
+.form-card{    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  background-color: aliceblue;
+  top: 10%;
+  left: 20%;
+  right: 20%;
+}
+.form-card-title{
+  font-family: 'Roboto', sans-serif;
+
+}
+.card-container {
+  display:inline-flex ;
+  width: 30rem;
+  height: 5rem;
+  font-size: 0.8rem;
+  border: 0.25rem solid black;
+  
+}
+.card-title{
+  font-family: 'Permanent Marker', cursive;
+  color: #000;
+  font-size: 0.7rem;
+
+}
+.card-content{
+  font-family: 'Permanent Marker', cursive;
+  color: #4c4c4c;
+  font-size: 0.5rem;
+}
+.card-color-1{
+  background-color: #ead3a7;
+
+}
+.card-color-2{
+  background-color: #9de0f5;
+
+}
+.card-color-3{
+  background-color: #ef89ba;
+
+}
+.card-color-4{
+  background-color: #fae890;
+
+}
+.card-color-5{
+  background-color: #abe9c1;
+
+}
+
+.card-rotation-1{
+  display: flex;
+  position: relative;
+
+
+}
+.card-rotation-2{
+  display: flex;
+  position: relative;
+
+
+}
+.card-rotation-3{
+  display: flex;
+  position: relative;
+
+
+}
+.card-rotation-4{
+  display: flex;
+  position: relative;
+
+
+}
+.card-rotation-6{
+  position: relative;
+  flex-basis: 100%;
+
+}
