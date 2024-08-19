@@ -133,24 +133,25 @@ body {
 .card {
   border-right: 1rem;
   border-left: 1rem;
-  width: 7.8rem;
+  width: 16rem;
+  height: 8rem;
   padding-left: 0.25rem;
   border-radius: 0.3rem;
   display: flex;
   flex-direction: column;
   align-content: space-between;
-  margin-top: 0.8rem;
+  margin-top: 1.8rem;
   margin-left: 0.4rem;
 
   margin-right:0.2rem ;
-  box-shadow:2px 2px 4px 2px rgb(200, 198, 198);
+  box-shadow:3px 3px 5px 3px rgb(200, 198, 198);
 
 
 }
 .card-title{
   font-family: 'Permanent Marker', bold, cursive;
   color: #000;
-  font-size: 0.75rem;
+  font-size: 1.5rem;
   margin-top: 0.3rem;
 
 }
@@ -164,7 +165,7 @@ body {
 
   font-family: 'Permanent Marker', cursive;
   color: #4c4c4c;
-  font-size: 0.6rem;
+  font-size: 1rem;
   padding-right: 0.1rem;
 
   margin-top: auto; 
